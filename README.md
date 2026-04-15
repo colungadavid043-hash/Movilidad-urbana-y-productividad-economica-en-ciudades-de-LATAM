@@ -1,6 +1,9 @@
 
 # Movilidad urbana y productividad económica en ciudades de LATAM 🚙 🚘
 
+>[!NOTE]
+> PROYECTO REALIZADO EN TRIPLETEN
+
 Se analizó cómo la movilidad urbana se relaciona con la productividad económica en las principales ciudades latinoamericanas.
 
 Para ello, se trabajó con datos reales de TomTom Traffic Index y OECD Cities, realizando procesos de limpieza, combinación y análisis para identificar en qué ciudades conviene invertir en infraestructura de transporte.
